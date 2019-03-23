@@ -1,7 +1,5 @@
 # NTIRE2019_VSR
 NTIRE2019_VideoSuperResolution Challenge 
-# NTIRE2019_VSR
-NTIRE2019_VideoSuperResolution Challenge 
 
 ### Introduction
 
